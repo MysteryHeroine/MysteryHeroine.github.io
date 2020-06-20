@@ -1,8 +1,17 @@
 # Ahsoka Tano
 >Der Rat hat mir nicht vertraut, wie soll ich mir dann selbst vertrauen können?
-— Ahsoka zu Anakin Skywalker 
+Ahsoka zu Anakin Skywalker 
 ---
+## Traits
+* Homeworld: Shilli
+* Born: 36 BBY
+* Species: Togruta
+* Gender: Female
+* Hight: 1.88m
+* EyeColor: blue
+* SkinColor: orange
 
+## Originc
 Ahsoka Tano, nicknamed "Snips" by her master and known as "Ashla" after the Clone Wars, was a former Jedi Padawan who, after the conflict, helped establish a network of various rebel cells against the Galactic Empire. A Togruta female, Tano was discovered on her homeworld of Shili by Jedi Master Plo Koon, who brought her to the Jedi Temple on Coruscant to receive Jedi training. Following the outbreak of the Clone Wars, Jedi Grand Master Yoda assigned the young Tano to be the Padawan learner of Jedi Knight Anakin Skywalker, whom she joined at the Battle of Christophsis. Whereas Tano was eager to prove herself, Skywalker had a reputation for recklessness, and they had a rather difficult start as master and apprentice. Yet they worked together to rescue Rotta, the son of crime lord Jabba Desilijic Tiure, and returned Rotta to his father, thus facilitating a crucial alliance between the Hutt Clan and the Galactic Republic.
 As a commander in the Grand Army of the Republic, Tano found a mentor in Clone Captain Rex of the 501st Legion, with whom she and Skywalker collaborated to lead frontline campaigns against the Confederacy of Independent Systems. In her first command position at the Battle of Ryloth, Tano disobeyed orders and lost her entire squadron of pilots, but she rebounded and helped secure a victory at Ryloth. Her assignments pitted her against a variety of opponents, from General Grievous and Sith apprentice Asajj Ventress to bounty hunters such as Cad Bane and Aurra Sing. Over time, she matured into a respected leader, contributing to key Republic victories like the Second Battle of Geonosis and the Battle of Mon Cala. She even died during a series of events on Mortis, but the Force wielder known as the Daughter sacrificed herself to bring Tano back to life.
 Tano gained much experience on and beyond the war front, leading a group of Jedi younglings to revolt against their Trandoshan captors, helping rescue a colony of Togruta from enslavement by the Zygerrian Slave Empire, and serving as an advisor to the Onderon rebels—with her close friend, Lux Bonteri, among them—as they liberated their world from the Confederacy. In a stark turn of events, Tano was framed for the bombing of the Jedi Temple hangar and other homicides, and she escaped into the Coruscant underworld to clear her name. Though she formed an unlikely alliance with Asajj Ventress, she was detained by Republic forces and was consequently barred from the Jedi Order. Ultimately, Skywalker uncovered the true culprit, Tano's friend, and fellow Padawan Barriss Offee, and prevented his former apprentice from being convicted of sedition. Nevertheless, the ordeal dislodged Tano's faith in the Jedi. She refused the Jedi High Council's offer to rejoin the Order, instead of departing in search of a new path and becoming a Force-Sensitive Outcast. Tano briefly returned to lead Republic forces during the Siege of Mandalore and faced Darth Maul and his forces, although Order 66 was enacted shortly after the Sith Lord's capture and Tano, faking her death after being betrayed by the 501st Legion, was forced into hiding.
